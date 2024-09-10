@@ -29,3 +29,10 @@ Before you start, make sure you have:
 git clone 
 https://github.com/usha-madithati/Virtu-Buddy
 cd Virtu Buddy
+## Usage
+
+Once the application is running, the chatbot will:
+
+1. **Interact with users** based on their Google Forms responses.
+2. **Fetch data** from a connected Google Sheets document.
+3. **Provide relevant responses** to user queries.
