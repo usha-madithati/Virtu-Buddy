@@ -26,5 +26,6 @@ Before you start, make sure you have:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/chatbot-app.git
-cd chatbot-app
+git clone 
+https://github.com/usha-madithati/Virtu-Buddy
+cd Virtu Buddy
